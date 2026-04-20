@@ -22,8 +22,9 @@ This research explores how neurodivergent adults use AI tools like ChatGPT, Clau
 ## Diary Tool
 
 The `diary-tool.html` file is the tool we built for participants to record their experiences — you can download it to try it out, and all data will be kept on your local computer. See below to download or watch a 3-minute walkthrough video for a quick introduction.
-📥 [**Download Diary Tool**]([Download Tool](https://raw.githubusercontent.com/yzhao-is/ai4nd-research/main/diary-tool.html)) | 🎬 [**Walkthrough Video**][Watch
- Video](https://youtu.be/2O4Ml5HM70o))
+
+📥 [**Download Diary Tool**][Download Tool](https://github.com/yzhao-is/ai4nd-research/releases/latest/download/diary-tool.html) | 🎬 [**Walkthrough Video**][Watch
+ Video](https://youtu.be/2O4Ml5HM70o)
 ## Contact
 
 If you're interested in participating or have questions, please reach out:
